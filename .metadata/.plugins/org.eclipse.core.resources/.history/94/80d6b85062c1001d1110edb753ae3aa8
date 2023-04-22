@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <project>       
+          <dependency>                                                          
+            <groupId>javax.xml.bind</groupId>                                   
+            <artifactId>jandex-2.0.3.Final</artifactId>                                   
+            <version>2.0.3</version>                                            
+            <scope>provided</scope>                                             
+          </dependency>
+</project>

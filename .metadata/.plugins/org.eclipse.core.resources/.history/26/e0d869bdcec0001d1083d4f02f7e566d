@@ -1,0 +1,9 @@
+package com.maxx.hibernate.entity;
+
+public class Users {
+	int userID;
+	String username;
+	String password;
+	String firstName;
+	String lastName;
+}

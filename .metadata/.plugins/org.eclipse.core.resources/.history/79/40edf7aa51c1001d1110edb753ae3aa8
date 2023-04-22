@@ -1,0 +1,5 @@
+package com.maxx.hibernate.entity;
+
+public class Users {
+
+}
